@@ -1,1 +1,2 @@
-Server-NewsApp
+# NewsApp
+React Native
